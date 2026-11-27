@@ -7,6 +7,9 @@ import Home from './pages/Home.jsx';
 import Chapter from './pages/Chapter.jsx';
 import Entry from './pages/Entry.jsx';
 import Write from './pages/Write.jsx';
+import Timeline from './pages/Timeline.jsx';
+import Moments from './pages/Moments.jsx';
+import Search from './pages/Search.jsx';
 import NotFound from './pages/NotFound.jsx';
 
 export default function App() {
@@ -34,6 +37,9 @@ export default function App() {
         <Route path="/chapter/:chapter" element={<Chapter />} />
         <Route path="/chapter/:chapter/entry/:num" element={<Entry />} />
         <Route path="/chapter/:chapter/entry/:num/write" element={<Write />} />
+        <Route path="/timeline" element={<Timeline />} />
+        <Route path="/moments" element={<Moments />} />
+        <Route path="/search" element={<Search />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </Shell>

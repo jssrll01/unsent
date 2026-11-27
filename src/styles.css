@@ -58,3 +58,13 @@ button,input,select,textarea{font:inherit;color:inherit}
 .field{min-height:44px;padding:0 12px;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
 .body-input{width:100%;min-height:55dvh;resize:vertical;border:0;background:transparent;font-family:'Lora Variable',Georgia,serif;font-size:1.15rem;line-height:1.9;padding:8px 0}
 .title-input:focus,.body-input:focus{outline:none}
+.list{list-style:none;margin:8px 0 24px;padding:0;display:grid;gap:8px}
+.row-item{display:flex;align-items:center;gap:14px;padding:12px 14px;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+.row-item:hover{border-color:var(--accent)}
+.row-num{font-variant-numeric:tabular-nums;color:var(--accent);font-weight:600}
+.row-main{display:grid;gap:2px;min-width:0}
+.row-main .meta{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.group-title{font-size:1.1rem;margin:28px 0 8px;color:var(--muted)}
+.search-wrap{position:relative;margin:20px 0}
+.search-wrap svg{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:var(--muted)}
+.search-wrap .field{width:100%;padding-left:42px}
