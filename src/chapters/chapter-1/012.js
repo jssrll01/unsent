@@ -1,0 +1,33 @@
+export default {
+  "title": "When the Hallucinations Finally Faded",
+  "date": "",
+  "mood": "",
+  "paragraphs": [
+    "The operation was over.",
+    "After everything that had happened, I eventually woke up again in my hospital room. I had made it through another surgical procedure, but waking up didn't immediately mean that everything was comfortable.",
+    "The first thing I noticed was the coldness.",
+    "I was chilling again, much like what I had experienced after my previous operation. My body felt unusually cold, and I couldn't seem to get comfortable. It was difficult to tell how much of it came from the medications still affecting my body and how much was related to the infection I had been fighting.",
+    "The nurses noticed that I wasn't feeling well and provided assistance.",
+    "They gave me an oxygen mask to help support my breathing. I was also experiencing strange sensations and hallucinations, which made the whole situation even more confusing.",
+    "It felt as though my mind hadn't completely returned to normal after the operation.",
+    "I couldn't entirely understand what was happening around me. The medications had left me feeling uncomfortable, and those unusual experiences reminded me of the hallucinations I had encountered during my earlier days in the burn unit.",
+    "I wanted those feelings to disappear.",
+    "Eventually, the effects I was experiencing began to fade.",
+    "I became more aware of my surroundings again. The strange hallucinations were no longer there, and I could finally distinguish what was happening around me without that same confusion.",
+    "When I woke up again, the hallucinations were gone.",
+    "The coldness, however, was still present.",
+    "Even so, things were gradually becoming better. I was no longer experiencing the same unusual sensations, and my body slowly began to feel more comfortable.",
+    "It was a relief.",
+    "After so many operations, medications, injections, and unexpected experiences, I was beginning to appreciate the simplest improvements.",
+    "Being able to rest without hallucinations was already something worth being grateful for.",
+    "I didn't need another adventure in the deep sea, another journey through outer space, or another imaginary island to explore.",
+    "This time, I just wanted to remain where I was, understand my surroundings, and recover peacefully.",
+    "Eventually, I started feeling better.",
+    "My body was becoming more comfortable, and I could finally settle into another period of rest.",
+    "I didn't know exactly what the following days would bring, but at least one difficult part of the experience had passed.",
+    "The operation was behind me.",
+    "The hallucinations had faded.",
+    "And I was slowly getting better.",
+    "After wandering through so many unfamiliar worlds in my mind, I was finally beginning to feel present in my own."
+  ]
+};
