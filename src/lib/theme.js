@@ -1,7 +1,7 @@
 const KEY = 'unsent-theme';
 
 export function getTheme() {
-  try { return localStorage.getItem(KEY) || 'light'; } catch { return 'light'; }
+  try { return localStorage.getItem(KEY) || 'system'; } catch { return 'system'; }
 }
 
 export function applyTheme(t) {
