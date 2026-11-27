@@ -6,7 +6,9 @@ import '@fontsource-variable/lora';
 import './styles.css';
 import App from './App.jsx';
 import { applyTheme, getTheme } from './lib/theme.js';
+import { installGuard } from './lib/guard.js';
 
+installGuard();
 applyTheme(getTheme());
 matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
   if (getTheme() === 'system') applyTheme('system');
