@@ -1,0 +1,30 @@
+export default {
+  "title": "The Moment Before Surgery",
+  "date": "",
+  "mood": "",
+  "paragraphs": [
+    "The Operating Room",
+    "Another procedure was waiting for me.",
+    "This time, my medical doctor was preparing my body for surgery on my right foot. After everything I had already experienced in the burn unit, I knew that more medical procedures were part of my recovery. Still, knowing that something was about to happen didn't necessarily make it easier to face.",
+    "Before the operation, I made a request to my doctor. I wanted to receive injectable sedatives and anesthetics so that I could be asleep during the procedure.",
+    "Eventually, the day arrived.",
+    "I was brought to the Operating Room (OR). The environment felt different from the room where I usually stayed. There were medical personnel, surgical equipment, and everything needed to prepare for an operation.",
+    "I knew I was about to undergo surgery, but I didn't know exactly what the next few minutes would feel like.",
+    "Then came the injections.",
+    "I remember receiving two separate injections.",
+    "The first one was incredibly painful. I could feel the medication entering through the serum line connected to my body. It was an uncomfortable sensation, and I could distinctly feel the pain as it entered.",
+    "Then came the second injection.",
+    "This one was even more difficult to describe. As the medication entered my body, I experienced intense pain accompanied by an unusual feeling of coldness. It was as though the cold sensation was spreading through me.",
+    "I remember those sensations clearly.",
+    "But they didn't last very long.",
+    "After approximately a minute, I began to fall asleep.",
+    "My awareness gradually disappeared, and I eventually drifted into unconsciousness. Whatever was happening around me became distant until I could no longer perceive anything.",
+    "And then, there was nothing I could remember.",
+    "I don't know exactly what happened after I fell asleep. I wasn't conscious to witness the operation or what the medical team was doing.",
+    "Once again, I had placed my trust in the people responsible for taking care of me.",
+    "I had already experienced so much inside that hospital, and another major part of my treatment was beginning.",
+    "I didn't know what my right foot would look like afterward. I didn't know how long the operation would take or what recovery would demand from me.",
+    "All I knew was that I had entered the Operating Room, received the medications, and eventually fallen asleep.",
+    "And just like that, I disappeared into another period of unconsciousness, waiting for the moment I would wake up again."
+  ]
+};
