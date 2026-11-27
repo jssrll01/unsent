@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useLayoutEffect, useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Moon, Sun } from 'lucide-react';
 import { NOVEL_TITLE } from '../lib/chapters.js';
@@ -7,6 +7,10 @@ import { setTheme } from '../lib/theme.js';
 export default function Shell({ children }) {
   const { pathname } = useLocation();
   const [theme, setT] = useState(document.documentElement.dataset.theme);
+  useLayoutEffect(() => {
+    if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+    window.scrollTo(0, 0);
+  }, [pathname]);
   const flip = () => {
     const next = theme === 'dark' ? 'light' : 'dark';
     setTheme(next);
