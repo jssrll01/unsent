@@ -1,0 +1,32 @@
+export default {
+  "title": "The Night I Tried to Breathe on My Own",
+  "date": "",
+  "mood": "",
+  "paragraphs": [
+    "There was something about my situation that I considered an advantage.",
+    "I didn't smoke, drink alcohol, or vape. Those were choices I had made, and during my hospitalization, I found myself thinking about how important it was to take care of my body.",
+    "I knew that avoiding those habits could help protect my health, although I also understood that it couldn't guarantee that my organs would never experience complications.",
+    "My body had already been through so much.",
+    "One of the things I still remember vividly was the breathing tube. It entered through my mouth and extended into my airway, allowing a machine to assist my breathing. The tube was secured around my mouth and wired or fastened to my teeth to keep it in place.",
+    "It was uncomfortable.",
+    "Imagine having something inside your mouth that you couldn't simply remove whenever you wanted. Every moment reminded me that I wasn't breathing entirely on my own.",
+    "The oxygen and breathing support came from machines. I depended on them to help my body perform something that had once been completely natural.",
+    "Eventually, I reached a point when I couldn't bear the feeling anymore.",
+    "My mind and body wanted to breathe normally again. I wanted to experience breathing without depending on a tube. I wanted to regain something that I had taken for granted before the accident.",
+    "I wanted to be independent.",
+    "That night, the medical team removed my breathing tube.",
+    "I cannot fully describe what it felt like to finally have it removed. It was a significant moment for me, but it also came with another challenge.",
+    "After the tube was removed, my oxygen level dropped.",
+    "For a moment, things didn't seem as reassuring as I had hoped. I had wanted to breathe independently, but my body still needed time to adjust.",
+    "Fortunately, my oxygen level eventually increased again.",
+    "As the night continued, it gradually became stable and remained stable throughout the night.",
+    "That was something worth remembering.",
+    "For the first time in what felt like a long journey, I had experienced a night without that breathing tube. My body had managed to maintain a stable oxygen level, and I could finally look at that moment as another step forward.",
+    "I didn't know what would happen the following morning, but that night gave me something I desperately needed: hope.",
+    "I had spent so much time depending on machines, medications, and medical assistance. Now, I was beginning to experience small moments of independence again.",
+    "Perhaps recovery isn't always about making one enormous achievement.",
+    "Sometimes, it is about something as simple as breathing.",
+    "Something I once did without thinking had become one of the biggest milestones of my life.",
+    "That night, I didn't just lose a breathing tube. I experienced a small but meaningful glimpse of what it felt like to breathe on my own again."
+  ]
+};
