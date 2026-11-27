@@ -9,6 +9,9 @@ import { applyTheme, getTheme } from './lib/theme.js';
 import { installGuard } from './lib/guard.js';
 
 installGuard();
+if ('serviceWorker' in navigator && import.meta.env.PROD) {
+  window.addEventListener('load', () => { navigator.serviceWorker.register('/sw.js').catch(() => {}); });
+}
 applyTheme(getTheme());
 matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
   if (getTheme() === 'system') applyTheme('system');
